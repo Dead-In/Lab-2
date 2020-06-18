@@ -126,6 +126,9 @@
 		    cout << "\nz = " << z;
 	    }
     }
+    ```
+    
+    ```c++
     int main()
     {
 	    double x, a, b, z;
