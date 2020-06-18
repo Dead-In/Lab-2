@@ -125,10 +125,11 @@
 		    cout << "\nx = " << x;
 		    cout << "\nz = " << z;
 	    }
-    }   ```
+    }  
+ ```   
    
-    
-    ```c++
+   
+ ```c++
     int main()
     {
 	    double x, a, b, z;
